@@ -1,2 +1,2 @@
 # bespoke_ConvNet
-Concatenate additional feature into a ConvNet before the final linear layers
+a 1-d ConvNet architecture for multi-channel time series data with additional features concatenated in at the fully-connected layers before output
